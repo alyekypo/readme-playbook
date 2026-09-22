@@ -23,6 +23,7 @@ Three elements: the project name as the only H1, one sentence saying what it is 
 - The first sentence carries the page: what it is, who it is for, what it replaces. No taglines, no adjectives, no "simple, powerful, and flexible".
 - Badges: one line at most, each answering a question (license, build status, version), and only the kind that reads repository state. A static badge asserting a quality — "clean code", "awesome" — is an assertion wearing a claim's clothes. If you cannot name what would turn a badge red, delete it; one lying badge makes every other claim on the page suspect.
 - No logo walls, banner images, or artwork dividers. No emoji in headings, ever.
+- The repository's About description is that same first sentence, not a different one: it is read in search results before anyone opens the page.
 
 ## The body, in the order the reader needs it
 
